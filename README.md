@@ -29,5 +29,5 @@ As shown in the analysis (Fig. 1 in the paper), using a more complex preconditio
 ### Technologies and Concepts
 
 * **Language:** C++
-* **Libraries:** Ginkgo, Boost (mentioned in your CV)
+* **Libraries:** Ginkgo, Boost
 * **Concepts:** HPC, Numerical Algorithms, Linear Algebra, Sparse Linear Algebra, GPGPU, CUDA, Performance Portability, SpMV, Preconditioning.
