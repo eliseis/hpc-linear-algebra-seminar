@@ -8,8 +8,6 @@ The main goal of the paper is to investigate the architecture and components of 
 
 ## [Read the Full Paper (PDF)](./IN2107_paper.pdf)
 
-*(Note: The link will work after you upload the PDF file to the repository in Step 3)*
-
 ---
 
 ### Key Topics Investigated
